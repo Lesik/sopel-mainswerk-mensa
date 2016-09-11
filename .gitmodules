@@ -1,0 +1,3 @@
+[submodule "libmainswerk"]
+	path = libmainswerk
+	url = git@github.com:Lesik/libmainswerk.git
